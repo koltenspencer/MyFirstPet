@@ -2,7 +2,7 @@
 Web application for first time pet owners 
 
 1. To run the web application you must first download MAMP (Web Developing Software) 
-2. After installing MAMP, run the it and start the servers. 
+2. After installing MAMP, run the software and start the servers. 
 3. Once the servers are running click on "Open Webstart page".
 4. Next click on "Tools" and than "phpMyAdmin", here you will create a database. 
 5. Create a new database by clicking on "New" in the left column and name it "myfirstpet"
