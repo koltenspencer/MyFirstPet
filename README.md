@@ -1,6 +1,9 @@
 # MyFirstPet
-Web application for first time pet owners 
+The purpose of this project was to develop a web application for first-time pet owners to 
+have access to adoptable pets, resources, and public forums. The goal was to develop a secure application that provides its users 
+access to important information for first-time pet owners. Therefore we created MyFirstPet which allowed users to have access to those things.
 
+Steps to run the web application:
 1. To run the web application you must first download MAMP (Web Developing Software) 
 2. After installing MAMP, run the software and start the servers. 
 3. Once the servers are running click on "Open Webstart page".
