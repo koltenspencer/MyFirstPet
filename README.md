@@ -10,4 +10,4 @@ Web application for first time pet owners
 7. Your database has now been imported
 8. Now its time to import the web application files into your MAMP "htdocs" file directory. This will be located where you installed MAMP to. 
 9. Copy the downloaded "htdocs" folder and past it in the MAMP directory. It will ask to replace the already created folder, select "Yes or continue".
-10. Now head back to the webstart page and click on "My Website". This will take you to the web application use it for your personal needs. 
+10. Now head back to the webstart page and click on "My Website". You now have access to the web application and can use it however you choose to.
